@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Shipping files](https://github.com/neuefische/ds-eda-project-template/actions/workflows/workflow-03.yml/badge.svg?branch=main&event=workflow_dispatch)](https://github.com/neuefische/ds-eda-project-template/actions/workflows/workflow-03.yml)
 # ds-project-template
 
@@ -171,3 +172,6 @@ Before you can start with plotly in Jupyter Lab you have to install node.js (if 
    ```Bash
    python.exe -m pip install --upgrade pip
    ```
+=======
+# EDA_Project
+>>>>>>> origin/main
